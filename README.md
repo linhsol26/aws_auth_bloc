@@ -1,3 +1,7 @@
+# username password demo
+nhglinh263@gmail.com
+Linh1234@
+
 # aws_auth_bloc
 
 A new Flutter project.
